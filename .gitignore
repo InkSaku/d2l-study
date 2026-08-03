@@ -1,0 +1,25 @@
+# Python 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Jupyter 临时文件
+.ipynb_checkpoints/
+.jupyter_cache/
+
+# macOS 系统文件
+.DS_Store
+
+# 数据集和训练结果
+data/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+
+
